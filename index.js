@@ -13,5 +13,14 @@ function scuberGreetingForFeet(someValue) {
   //don't forget to return whatever the result is!
 }
 function scuberGreetingForFeet (distance) {
+  if (<=400 feet){
+    alert
+  }
+}
+function ternaryCheckCity (city) {
   
+}
+function switchOnCharmFromTip (tip) {
+  
+}
 }
