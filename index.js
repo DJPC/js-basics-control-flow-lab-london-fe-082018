@@ -24,6 +24,6 @@ case "generous":
 case "not as generous":
 return "Thank you."
 default:
-return "bye"
+return "Bye."
   }
 }
