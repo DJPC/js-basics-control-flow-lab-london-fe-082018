@@ -25,7 +25,7 @@ switch(tip){
     case "Tip is not generous":
   	  return “Thank you.”
   	  break
-  	default
+  	default:
   	  return "Bye"
   }
 }
