@@ -16,6 +16,7 @@ function ternaryCheckCity (city) {
 }
 
 // Switch statement
+
 function switchOnCharmFromTip (tip) {
   switch (tip) {
     case 'Tip is generous':
@@ -23,6 +24,7 @@ function switchOnCharmFromTip (tip) {
   	break
     case 'Tip is not generous':
   	return “Thank you.”
+  	break
   	default
   	return "Bye"
   }
