@@ -18,8 +18,10 @@ function switchOnCharmFromTip (tip) {
   switch (tip) {
     case (tip == "Tip is generous") :
   	(“Thank you so much.”)
-    case (tip == "Tip is generous") :
-  	(“Thank you so much.”)
+    case (tip == "Tip is not generous") :
+  	(“Thank you.”)
+  	case (tip=)
+  }
 }
 
 }
