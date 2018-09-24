@@ -9,11 +9,13 @@ function scuberGreetingForFeet(distance) {
       return "No can do."
       }
   }
-    
+  
+  //Ternanry - binary   
 function ternaryCheckCity (city) {
   return city == "NYC" ? "Ok, sounds good." : "No go."
 }
 
+// Switch statement
 function switchOnCharmFromTip (tip) {
   switch (tip) {
     case (tip == "Tip is generous"):
