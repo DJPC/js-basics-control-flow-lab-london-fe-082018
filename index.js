@@ -20,9 +20,10 @@ function switchOnCharmFromTip (tip) {
   switch (tip) {
     case 'Tip is generous':
   	return “Thank you so much.”
+  	break
     case 'Tip is not generous':
   	return “Thank you.”
   	default
-  	return "bye"
+  	return "Bye"
   }
 }
