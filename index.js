@@ -15,5 +15,15 @@ function ternaryCheckCity (city) {
 }
 
 function switchOnCharmFromTip (tip) {
-  
+  switch (tip) {
+  case (tip == "Tip is generous") :
+  	“Thank you so much”)
+case (dinnerMoney <2) :
+	console.log(“Beans on toast”)
+case (dinnerMoney >= 5):
+	console.log(“Ready Meal”
+case (dinnerMoney <= 5):
+	console.log(“Eggs”)
+}
+
 }
