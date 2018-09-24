@@ -13,8 +13,8 @@ function scuberGreetingForFeet(someValue) {
   //don't forget to return whatever the result is!
 }
 function scuberGreetingForFeet (distance) {
-  if (<=400 feet){
-    alert
+  if (distance <=400 feet){
+    alert("This one is on me")
   }
 }
 function ternaryCheckCity (city) {
